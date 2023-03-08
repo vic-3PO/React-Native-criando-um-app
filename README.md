@@ -2,8 +2,8 @@
 
 Criamos um projeto React Native utilizando Expo e também entendemos um pouco sobre as diferenças entre utilizar o Expo CLI e o React Native CLI.
 
-![alt text](img-git/Tela1.jpeg)
-![alt text](img-git/Tela2.jpeg)
+![alt text](img-git/Tela1.jpeg | width=100)
+![alt text](img-git/Tela2.jpeg | width=100)
 
 - Preparar o ambiente
     - Instalamos o Node.js e o Expo para poder desenvolver aplicativos React Native com Expo.
